@@ -1,0 +1,44 @@
+# Maven target directory
+/target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
+
+# OS-specifieke bestanden
+.DS_Store
+Thumbs.db
+
+# Backup- en tempbestanden
+*~
+*.swp
+*.tmp
+
+# Dependency caches
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# JARs, WARs, EARs
+*.jar
+*.war
+*.ear
+
+# Optional: skip test result folders
+/surefire-reports/
+/failsafe-reports/
